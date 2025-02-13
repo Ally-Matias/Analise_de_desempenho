@@ -1,0 +1,73 @@
+==========================================
+Testando com 50 usuários concorrentes
+==========================================
+--- Execução #1 ---
+Número total de transações:          250000
+Disponibilidade:                     100.00%
+Tempo total decorrido:               32.59 seg
+Dados transferidos:                  94.65 MB
+Tempo médio de resposta:             0.01 seg
+Taxa de transações (trans/sec):      7671.06
+Throughput (MB/s):                   2.90
+Concorrência média:                  44.63
+Transações bem-sucedidas:            250000
+Transações com falha:                0
+Transação mais longa:                0.09 seg
+Transação mais curta:                0.00 seg
+
+--- Execução #2 ---
+Número total de transações:          250000
+Disponibilidade:                     100.00%
+Tempo total decorrido:               35.08 seg
+Dados transferidos:                  94.65 MB
+Tempo médio de resposta:             0.01 seg
+Taxa de transações (trans/sec):      7126.57
+Throughput (MB/s):                   2.70
+Concorrência média:                  38.46
+Transações bem-sucedidas:            250000
+Transações com falha:                0
+Transação mais longa:                0.11 seg
+Transação mais curta:                0.00 seg
+
+--- Execução #3 ---
+Número total de transações:          250000
+Disponibilidade:                     100.00%
+Tempo total decorrido:               33.05 seg
+Dados transferidos:                  94.65 MB
+Tempo médio de resposta:             0.01 seg
+Taxa de transações (trans/sec):      7564.30
+Throughput (MB/s):                   2.86
+Concorrência média:                  41.53
+Transações bem-sucedidas:            250000
+Transações com falha:                0
+Transação mais longa:                0.22 seg
+Transação mais curta:                0.00 seg
+
+--- Execução #4 ---
+Número total de transações:          250000
+Disponibilidade:                     100.00%
+Tempo total decorrido:               33.09 seg
+Dados transferidos:                  94.65 MB
+Tempo médio de resposta:             0.01 seg
+Taxa de transações (trans/sec):      7555.15
+Throughput (MB/s):                   2.86
+Concorrência média:                  42.54
+Transações bem-sucedidas:            250000
+Transações com falha:                0
+Transação mais longa:                0.15 seg
+Transação mais curta:                0.00 seg
+
+--- Execução #5 ---
+Número total de transações:          250000
+Disponibilidade:                     100.00%
+Tempo total decorrido:               33.70 seg
+Dados transferidos:                  94.65 MB
+Tempo médio de resposta:             0.01 seg
+Taxa de transações (trans/sec):      7418.40
+Throughput (MB/s):                   2.81
+Concorrência média:                  40.44
+Transações bem-sucedidas:            250000
+Transações com falha:                0
+Transação mais longa:                0.10 seg
+Transação mais curta:                0.00 seg
+
