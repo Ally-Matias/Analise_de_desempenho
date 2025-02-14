@@ -14,7 +14,6 @@ while true; do
         if ($1 > 0) print $1
     }' >> "$LOGFILE"
 
-    echo "---" >> "$LOGFILE"
     sleep 2
 done
 
