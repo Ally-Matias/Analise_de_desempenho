@@ -2,11 +2,9 @@
 
 Script | Descrição
 ------ | -----------
-single.py | Descrição
-linear.py | Descrição
-ring.py | Descrição
-run_cmds.py | Descrição
-
+capture.sh | capturar os dados do consumo de CPU de cada servidor.
+teste_siege.sh | Automatização dos testes e captura dos resultados.
+calculos_dos_dados.R | intervalo do confiança e teste de hipótese
 
 
 ### Padrões que usamos:
